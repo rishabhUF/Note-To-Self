@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="in.rohanarora.todo.ItemView" >
+    tools:context="in.rishabhsharma.todo.ItemView" >
 
     <TextView
         android:id="@+id/titleView"
