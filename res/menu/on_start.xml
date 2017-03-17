@@ -1,6 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="in.rohanarora.todo.OnStart" >
+    tools:context="in.rishabhsharma.todo.OnStart" >
 
     <item
         android:id="@+id/action_settings"
