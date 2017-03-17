@@ -3,7 +3,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="in.rohanarora.todo.EditToDo" >
+    tools:context="in.rishabhsharma.todo.EditToDo" >
 
     <TextView
         android:id="@+id/textEditItem"
