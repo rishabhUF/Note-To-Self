@@ -1,4 +1,4 @@
-package in.rohanarora.todo;
+package in.rishabhsharma.todo;
 
 import android.app.Activity;
 import android.content.Intent;
