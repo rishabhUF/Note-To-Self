@@ -1,4 +1,4 @@
-package in.rohanarora.todo;
+package in.rishabhsharma.todo;
 public class TodoItem {
 
 	String title;
